@@ -56,3 +56,12 @@ CLI notes - Copyright (C) 2026 kimik3moonshot
 I keep a short changelog in issues when something breaks after an update.
 
 claude-code-for-free claude-code-free-github github-free-claude-code free-claude-code-github claude-code-free-tier claude-code-download claude-code-cli claude-code-install
+
+
+---
+
+## Also here
+
+- **Repository:** https://github.com/kimik3moonshot/Claude-Code-Free
+
+---
